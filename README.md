@@ -1,6 +1,6 @@
 # 🤖 Assitant Engine: The Ultimate Autonomous Agentic Assistant
 
-Welcome to the **ELY Engine**, a comprehensive, multi-agent AI architecture designed to completely automate lead qualification, customer support, and direct bookings via WhatsApp. 
+Welcome to the **Assistant Engine**, a comprehensive, multi-agent AI architecture designed to completely automate lead qualification, customer support, and direct bookings via WhatsApp. 
 
 This repository serves as the central hub and orchestrator for the entire agentic ecosystem.
 
