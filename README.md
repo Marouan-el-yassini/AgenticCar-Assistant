@@ -1,4 +1,4 @@
-# 🤖 ELY Engine: The Ultimate Autonomous Agentic Assistant
+# 🤖 Assitant Engine: The Ultimate Autonomous Agentic Assistant
 
 Welcome to the **ELY Engine**, a comprehensive, multi-agent AI architecture designed to completely automate lead qualification, customer support, and direct bookings via WhatsApp. 
 
